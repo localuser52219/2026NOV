@@ -1,0 +1,4 @@
+export const PHOTOS = {
+ pattaya:{src:'https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Pattaya_Thailand_skyline_photo_Don_Ramey_Logan.jpg/1280px-Pattaya_Thailand_skyline_photo_Don_Ramey_Logan.jpg',page:'https://commons.wikimedia.org/wiki/File:Pattaya_Thailand_skyline_photo_Don_Ramey_Logan.jpg',author:'Don Ramey Logan',title:'Pattaya Thailand skyline photo Don Ramey Logan.jpg',license:'CC BY-SA 4.0',licenseUrl:'https://creativecommons.org/licenses/by-sa/4.0/',caption:'芭堤雅城市意象，非各景點實景'},
+ bangkok:{src:'https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bangkok%2C_Thailand%2C_Chao_Praya%2C_2024.jpg/1280px-Bangkok%2C_Thailand%2C_Chao_Praya%2C_2024.jpg',page:'https://commons.wikimedia.org/wiki/File:Bangkok,_Thailand,_Chao_Praya,_2024.jpg',author:'OPK-Photography',title:'Bangkok, Thailand, Chao Praya, 2024.jpg',license:'CC BY-SA 4.0',licenseUrl:'https://creativecommons.org/licenses/by-sa/4.0/',caption:'曼谷湄南河城市意象，非酒店或餐廳實景'}
+};
